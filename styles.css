@@ -54,8 +54,11 @@ h3 {
     font-style:italic;
 }
 
-img {
-    
+#heroImg {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .dates {
